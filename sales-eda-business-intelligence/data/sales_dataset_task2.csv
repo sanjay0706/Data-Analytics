@@ -1,0 +1,201 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Sales,Quantity,Discount
+1,CA-2019-100001,19-12-2019,21-12-2019,Standard Class,James Anderson,Consumer,USA,San Antonio,Texas,Central,Technology,Copiers,777.13,5,0.2
+2,CA-2019-100002,21-04-2019,25-04-2019,Second Class,Liam Walker,Consumer,USA,Phoenix,Arizona,West,Technology,Phones,418.83,3,0.05
+3,CA-2019-100003,24-10-2019,27-10-2019,First Class,John Smith,Home Office,USA,San Diego,California,West,Office Supplies,Storage,344.46,2,0.1
+4,CA-2019-100004,02-10-2019,07-10-2019,First Class,John Smith,Home Office,USA,Houston,Texas,Central,Office Supplies,Binders,512.24,5,0.2
+5,CA-2019-100005,11-03-2019,15-03-2019,Standard Class,David Wilson,Consumer,USA,Los Angeles,California,West,Furniture,Tables,617.93,2,0
+6,CA-2019-100006,08-11-2019,13-11-2019,First Class,James Anderson,Corporate,USA,Dallas,Texas,Central,Technology,Machines,582.81,6,0
+7,CA-2019-100007,19-10-2019,20-10-2019,Second Class,Liam Walker,Corporate,USA,Dallas,Texas,Central,Furniture,Furnishings,380.04,2,0
+8,CA-2019-100008,15-11-2019,19-11-2019,First Class,John Smith,Home Office,USA,San Diego,California,West,Furniture,Chairs,79.97,1,0.1
+9,CA-2019-100009,09-01-2019,13-01-2019,First Class,Sophia Clark,Corporate,USA,San Antonio,Texas,Central,Technology,Machines,533.46,4,0.2
+10,CA-2019-100010,22-09-2019,25-09-2019,Standard Class,Alice Brown,Home Office,USA,San Antonio,Texas,Central,Furniture,Chairs,563.21,3,0.15
+11,CA-2019-100011,16-03-2019,17-03-2019,Second Class,Michael Lee,Corporate,USA,Chicago,Illinois,Central,Technology,Phones,642.25,4,0.1
+12,CA-2019-100012,08-01-2019,10-01-2019,First Class,Michael Lee,Corporate,USA,Dallas,Texas,Central,Furniture,Tables,334.5,5,0.05
+13,CA-2019-100013,02-03-2019,07-03-2019,First Class,Olivia Thomas,Home Office,USA,Los Angeles,California,West,Office Supplies,Paper,653.32,5,0.15
+14,CA-2019-100014,14-10-2019,19-10-2019,Standard Class,Olivia Thomas,Consumer,USA,San Diego,California,West,Furniture,Tables,229.43,3,0.15
+15,CA-2019-100015,20-03-2019,21-03-2019,Standard Class,Daniel Martin,Corporate,USA,San Diego,California,West,Office Supplies,Paper,97.91,2,0.1
+16,CA-2019-100016,01-06-2019,04-06-2019,Second Class,Alice Brown,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,440.38,5,0.15
+17,CA-2019-100017,27-10-2019,01-11-2019,First Class,John Smith,Home Office,USA,San Jose,California,West,Office Supplies,Labels,37.11,6,0.05
+18,CA-2019-100018,14-06-2019,19-06-2019,First Class,Liam Walker,Home Office,USA,New York,New York,East,Technology,Copiers,207.86,6,0
+19,CA-2019-100019,30-07-2019,01-08-2019,Standard Class,Alice Brown,Home Office,USA,Phoenix,Arizona,West,Technology,Phones,240.93,4,0.2
+20,CA-2019-100020,17-08-2019,19-08-2019,First Class,David Wilson,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Machines,518.78,6,0
+21,CA-2019-100021,27-12-2019,29-12-2019,First Class,Daniel Martin,Consumer,USA,Los Angeles,California,West,Furniture,Furnishings,361.64,4,0
+22,CA-2019-100022,25-09-2019,27-09-2019,First Class,James Anderson,Consumer,USA,Chicago,Illinois,Central,Furniture,Tables,670.77,1,0.15
+23,CA-2019-100023,04-05-2019,07-05-2019,First Class,Daniel Martin,Corporate,USA,San Diego,California,West,Office Supplies,Storage,83.47,1,0.1
+24,CA-2019-100024,25-06-2019,28-06-2019,Standard Class,Sophia Clark,Consumer,USA,San Diego,California,West,Furniture,Bookcases,129.5,5,0
+25,CA-2019-100025,06-03-2019,11-03-2019,Second Class,James Anderson,Consumer,USA,New York,New York,East,Furniture,Furnishings,576.89,2,0.2
+26,CA-2019-100026,16-05-2019,19-05-2019,Standard Class,Sophia Clark,Consumer,USA,Dallas,Texas,Central,Technology,Copiers,76.77,5,0.15
+27,CA-2019-100027,06-03-2019,07-03-2019,Second Class,James Anderson,Home Office,USA,Houston,Texas,Central,Furniture,Chairs,157.2,1,0.15
+28,CA-2019-100028,20-03-2019,23-03-2019,Standard Class,Alice Brown,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,448.77,2,0.2
+29,CA-2019-100029,02-04-2019,03-04-2019,Second Class,Daniel Martin,Consumer,USA,Dallas,Texas,Central,Office Supplies,Binders,282.21,6,0
+30,CA-2019-100030,31-05-2019,02-06-2019,First Class,Michael Lee,Consumer,USA,San Antonio,Texas,Central,Office Supplies,Paper,588.24,4,0.2
+31,CA-2019-100031,18-03-2019,21-03-2019,First Class,Michael Lee,Home Office,USA,Phoenix,Arizona,West,Furniture,Furnishings,156.26,3,0
+32,CA-2019-100032,25-03-2019,30-03-2019,Standard Class,Daniel Martin,Home Office,USA,Houston,Texas,Central,Furniture,Bookcases,151.67,4,0
+33,CA-2019-100033,16-09-2019,20-09-2019,First Class,Olivia Thomas,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Labels,662.7,3,0.2
+34,CA-2019-100034,12-02-2019,15-02-2019,Second Class,James Anderson,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Binders,598.6,3,0.2
+35,CA-2019-100035,26-12-2019,31-12-2019,Second Class,Emma Taylor,Consumer,USA,New York,New York,East,Technology,Machines,88.97,6,0
+36,CA-2019-100036,15-06-2019,17-06-2019,Second Class,David Wilson,Consumer,USA,San Diego,California,West,Office Supplies,Labels,731.67,3,0.15
+37,CA-2019-100037,29-01-2019,01-02-2019,Second Class,Emma Taylor,Consumer,USA,Phoenix,Arizona,West,Technology,Accessories,358.82,2,0.15
+38,CA-2019-100038,02-05-2019,06-05-2019,Standard Class,Daniel Martin,Corporate,USA,Houston,Texas,Central,Office Supplies,Binders,772.25,3,0.2
+39,CA-2019-100039,06-11-2019,07-11-2019,First Class,Michael Lee,Corporate,USA,San Antonio,Texas,Central,Office Supplies,Labels,367.77,6,0.15
+40,CA-2019-100040,29-08-2019,30-08-2019,Standard Class,David Wilson,Home Office,USA,San Jose,California,West,Furniture,Chairs,432.27,2,0.15
+41,CA-2019-100041,05-01-2019,07-01-2019,First Class,Daniel Martin,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,639.6,1,0
+42,CA-2019-100042,27-10-2019,30-10-2019,Second Class,Emma Taylor,Corporate,USA,San Jose,California,West,Office Supplies,Labels,681.69,6,0.15
+43,CA-2019-100043,07-12-2019,12-12-2019,Standard Class,Alice Brown,Consumer,USA,San Diego,California,West,Technology,Copiers,590.5,5,0.15
+44,CA-2019-100044,28-03-2019,31-03-2019,First Class,Emma Taylor,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Storage,544.42,4,0.1
+45,CA-2019-100045,16-01-2019,21-01-2019,First Class,John Smith,Corporate,USA,Houston,Texas,Central,Office Supplies,Paper,702.79,1,0.15
+46,CA-2019-100046,19-05-2019,23-05-2019,First Class,Daniel Martin,Home Office,USA,Dallas,Texas,Central,Office Supplies,Binders,157.17,5,0
+47,CA-2019-100047,25-05-2019,30-05-2019,Standard Class,David Wilson,Home Office,USA,San Jose,California,West,Office Supplies,Paper,535.92,6,0.15
+48,CA-2019-100048,27-02-2019,28-02-2019,Second Class,David Wilson,Corporate,USA,Los Angeles,California,West,Office Supplies,Binders,638.06,2,0.1
+49,CA-2019-100049,21-04-2019,22-04-2019,Second Class,Olivia Thomas,Corporate,USA,Phoenix,Arizona,West,Technology,Accessories,211.1,1,0.2
+50,CA-2019-100050,14-11-2019,15-11-2019,First Class,Daniel Martin,Home Office,USA,Chicago,Illinois,Central,Furniture,Bookcases,354.78,6,0.1
+51,CA-2019-100051,04-06-2019,06-06-2019,First Class,Michael Lee,Home Office,USA,San Diego,California,West,Furniture,Tables,217.49,1,0
+52,CA-2019-100052,06-08-2019,11-08-2019,Standard Class,Emma Taylor,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,482,1,0
+53,CA-2019-100053,05-06-2019,07-06-2019,Standard Class,David Wilson,Corporate,USA,Chicago,Illinois,Central,Technology,Copiers,535.1,1,0.1
+54,CA-2019-100054,12-09-2019,16-09-2019,Second Class,Daniel Martin,Home Office,USA,New York,New York,East,Technology,Copiers,80.45,3,0.1
+55,CA-2019-100055,23-10-2019,26-10-2019,First Class,Emma Taylor,Corporate,USA,San Jose,California,West,Technology,Machines,223.26,1,0.15
+56,CA-2019-100056,17-05-2019,18-05-2019,First Class,Daniel Martin,Consumer,USA,San Antonio,Texas,Central,Technology,Copiers,534.45,5,0.2
+57,CA-2019-100057,19-03-2019,20-03-2019,First Class,John Smith,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Labels,248.27,4,0.15
+58,CA-2019-100058,08-08-2019,13-08-2019,Standard Class,Michael Lee,Consumer,USA,San Diego,California,West,Technology,Copiers,486.21,1,0.05
+59,CA-2019-100059,16-07-2019,18-07-2019,Second Class,Michael Lee,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,614.3,4,0.05
+60,CA-2019-100060,05-03-2019,10-03-2019,Standard Class,James Anderson,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,313.97,3,0.2
+61,CA-2019-100061,28-05-2019,02-06-2019,Standard Class,Michael Lee,Corporate,USA,New York,New York,East,Furniture,Furnishings,482.84,3,0.1
+62,CA-2019-100062,13-09-2019,14-09-2019,Second Class,Emma Taylor,Consumer,USA,San Jose,California,West,Furniture,Bookcases,224.72,1,0.05
+63,CA-2019-100063,19-07-2019,21-07-2019,First Class,James Anderson,Corporate,USA,New York,New York,East,Technology,Phones,168.52,2,0.15
+64,CA-2019-100064,26-11-2019,01-12-2019,Standard Class,Emma Taylor,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,276.57,6,0.2
+65,CA-2019-100065,26-11-2019,28-11-2019,Standard Class,David Wilson,Home Office,USA,New York,New York,East,Office Supplies,Paper,588.16,2,0
+66,CA-2019-100066,24-06-2019,25-06-2019,Second Class,James Anderson,Home Office,USA,Dallas,Texas,Central,Technology,Phones,143.16,1,0.15
+67,CA-2019-100067,20-05-2019,23-05-2019,Standard Class,Olivia Thomas,Corporate,USA,Dallas,Texas,Central,Furniture,Bookcases,335.61,5,0.15
+68,CA-2019-100068,21-06-2019,25-06-2019,First Class,James Anderson,Home Office,USA,New York,New York,East,Furniture,Furnishings,710.68,3,0
+69,CA-2019-100069,12-03-2019,14-03-2019,Second Class,Daniel Martin,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,387.89,6,0.15
+70,CA-2019-100070,07-09-2019,12-09-2019,Second Class,John Smith,Home Office,USA,New York,New York,East,Office Supplies,Binders,517.5,1,0.2
+71,CA-2019-100071,16-04-2019,18-04-2019,First Class,David Wilson,Consumer,USA,Dallas,Texas,Central,Furniture,Chairs,283.78,5,0
+72,CA-2019-100072,22-07-2019,23-07-2019,Second Class,Emma Taylor,Corporate,USA,Phoenix,Arizona,West,Furniture,Chairs,24,4,0.1
+73,CA-2019-100073,22-07-2019,23-07-2019,First Class,Emma Taylor,Home Office,USA,Phoenix,Arizona,West,Technology,Copiers,112.93,1,0
+74,CA-2019-100074,03-03-2019,04-03-2019,Second Class,Olivia Thomas,Consumer,USA,Phoenix,Arizona,West,Technology,Accessories,82.6,2,0
+75,CA-2019-100075,29-10-2019,31-10-2019,Standard Class,Alice Brown,Home Office,USA,New York,New York,East,Office Supplies,Storage,371.06,2,0.05
+76,CA-2019-100076,03-05-2019,05-05-2019,First Class,Olivia Thomas,Corporate,USA,Houston,Texas,Central,Furniture,Bookcases,54.13,5,0
+77,CA-2019-100077,21-07-2019,25-07-2019,Standard Class,Alice Brown,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,278.67,4,0
+78,CA-2019-100078,17-07-2019,18-07-2019,Second Class,John Smith,Home Office,USA,New York,New York,East,Technology,Machines,359.92,5,0.15
+79,CA-2019-100079,13-01-2019,16-01-2019,First Class,Emma Taylor,Consumer,USA,San Diego,California,West,Technology,Accessories,669.04,6,0.1
+80,CA-2019-100080,01-01-2020,05-01-2020,Second Class,Alice Brown,Home Office,USA,Dallas,Texas,Central,Furniture,Bookcases,293.76,5,0.2
+81,CA-2019-100081,17-09-2019,21-09-2019,First Class,Michael Lee,Consumer,USA,Phoenix,Arizona,West,Furniture,Furnishings,399.46,3,0.2
+82,CA-2019-100082,30-12-2019,03-01-2020,First Class,Sophia Clark,Corporate,USA,Phoenix,Arizona,West,Furniture,Chairs,260.91,4,0
+83,CA-2019-100083,24-11-2019,28-11-2019,Standard Class,Olivia Thomas,Home Office,USA,Phoenix,Arizona,West,Technology,Phones,42.65,2,0.2
+84,CA-2019-100084,15-10-2019,20-10-2019,First Class,Sophia Clark,Home Office,USA,Houston,Texas,Central,Office Supplies,Binders,563.13,3,0
+85,CA-2019-100085,17-07-2019,19-07-2019,Standard Class,Olivia Thomas,Consumer,USA,Houston,Texas,Central,Technology,Machines,247.02,1,0.15
+86,CA-2019-100086,03-11-2019,06-11-2019,Standard Class,Alice Brown,Consumer,USA,Phoenix,Arizona,West,Technology,Accessories,180.53,3,0.1
+87,CA-2019-100087,29-05-2019,03-06-2019,Second Class,John Smith,Consumer,USA,New York,New York,East,Technology,Accessories,242.9,2,0.2
+88,CA-2019-100088,23-06-2019,26-06-2019,Standard Class,Daniel Martin,Consumer,USA,Chicago,Illinois,Central,Furniture,Chairs,316.77,5,0.2
+89,CA-2019-100089,04-05-2019,05-05-2019,Standard Class,David Wilson,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,721.25,4,0.05
+90,CA-2019-100090,19-11-2019,23-11-2019,Standard Class,James Anderson,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Paper,41.09,4,0
+91,CA-2019-100091,08-11-2019,10-11-2019,First Class,Sophia Clark,Consumer,USA,New York,New York,East,Technology,Accessories,403.6,3,0.1
+92,CA-2019-100092,31-08-2019,03-09-2019,Second Class,Daniel Martin,Home Office,USA,San Diego,California,West,Office Supplies,Binders,396.67,1,0.1
+93,CA-2019-100093,16-05-2019,20-05-2019,Standard Class,Olivia Thomas,Corporate,USA,Phoenix,Arizona,West,Furniture,Tables,252.3,1,0.2
+94,CA-2019-100094,17-04-2019,22-04-2019,First Class,Olivia Thomas,Home Office,USA,Dallas,Texas,Central,Office Supplies,Binders,441.33,2,0.2
+95,CA-2019-100095,15-12-2019,16-12-2019,Second Class,Daniel Martin,Consumer,USA,Dallas,Texas,Central,Technology,Machines,249.5,6,0.2
+96,CA-2019-100096,15-11-2019,19-11-2019,First Class,Olivia Thomas,Corporate,USA,Houston,Texas,Central,Technology,Copiers,106.94,5,0.2
+97,CA-2019-100097,06-08-2019,07-08-2019,Second Class,Michael Lee,Home Office,USA,Houston,Texas,Central,Furniture,Chairs,522.25,3,0.1
+98,CA-2019-100098,09-08-2019,14-08-2019,Standard Class,Michael Lee,Home Office,USA,Los Angeles,California,West,Technology,Copiers,591.77,1,0
+99,CA-2019-100099,03-04-2019,05-04-2019,Standard Class,Liam Walker,Corporate,USA,Dallas,Texas,Central,Office Supplies,Paper,768.58,4,0
+100,CA-2019-100100,08-12-2019,12-12-2019,First Class,Alice Brown,Home Office,USA,Dallas,Texas,Central,Furniture,Bookcases,335.34,2,0.1
+101,CA-2019-100101,03-02-2019,06-02-2019,Second Class,Alice Brown,Consumer,USA,San Jose,California,West,Furniture,Tables,778.55,6,0.15
+102,CA-2019-100102,12-01-2019,13-01-2019,Second Class,Olivia Thomas,Home Office,USA,New York,New York,East,Furniture,Furnishings,444.8,6,0
+103,CA-2019-100103,20-03-2019,23-03-2019,Second Class,Emma Taylor,Consumer,USA,San Diego,California,West,Office Supplies,Labels,219.21,3,0.2
+104,CA-2019-100104,04-10-2019,06-10-2019,Second Class,Daniel Martin,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Labels,466.46,1,0.05
+105,CA-2019-100105,24-11-2019,28-11-2019,Standard Class,James Anderson,Home Office,USA,Dallas,Texas,Central,Furniture,Furnishings,590.79,1,0
+106,CA-2019-100106,16-01-2019,19-01-2019,Second Class,Liam Walker,Home Office,USA,Phoenix,Arizona,West,Office Supplies,Labels,684.84,3,0.05
+107,CA-2019-100107,20-09-2019,25-09-2019,First Class,James Anderson,Home Office,USA,New York,New York,East,Office Supplies,Labels,731.96,3,0.15
+108,CA-2019-100108,15-09-2019,19-09-2019,Standard Class,Sophia Clark,Consumer,USA,New York,New York,East,Office Supplies,Storage,653.93,1,0.2
+109,CA-2019-100109,08-09-2019,12-09-2019,Standard Class,Michael Lee,Corporate,USA,Houston,Texas,Central,Office Supplies,Labels,347.15,4,0.05
+110,CA-2019-100110,09-03-2019,12-03-2019,Second Class,Daniel Martin,Consumer,USA,San Jose,California,West,Office Supplies,Binders,161.84,1,0.2
+111,CA-2019-100111,28-12-2019,30-12-2019,Standard Class,Liam Walker,Corporate,USA,Houston,Texas,Central,Furniture,Furnishings,244.2,2,0
+112,CA-2019-100112,17-05-2019,18-05-2019,First Class,Sophia Clark,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Phones,730.11,5,0.2
+113,CA-2019-100113,12-09-2019,17-09-2019,Standard Class,Olivia Thomas,Home Office,USA,New York,New York,East,Office Supplies,Storage,347.48,5,0.15
+114,CA-2019-100114,30-11-2019,02-12-2019,Second Class,Sophia Clark,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,243.54,4,0.15
+115,CA-2019-100115,19-04-2019,20-04-2019,First Class,Michael Lee,Corporate,USA,San Diego,California,West,Technology,Machines,607.68,3,0
+116,CA-2019-100116,20-12-2019,22-12-2019,Second Class,Daniel Martin,Corporate,USA,Dallas,Texas,Central,Technology,Phones,497.94,4,0.2
+117,CA-2019-100117,24-03-2019,25-03-2019,First Class,David Wilson,Corporate,USA,New York,New York,East,Furniture,Tables,778.06,2,0
+118,CA-2019-100118,19-01-2019,23-01-2019,First Class,Daniel Martin,Corporate,USA,Phoenix,Arizona,West,Technology,Accessories,170.48,2,0.15
+119,CA-2019-100119,10-02-2019,15-02-2019,Second Class,David Wilson,Corporate,USA,Dallas,Texas,Central,Furniture,Tables,633.81,5,0.15
+120,CA-2019-100120,27-10-2019,31-10-2019,First Class,Michael Lee,Consumer,USA,Phoenix,Arizona,West,Furniture,Tables,289.2,6,0
+121,CA-2019-100121,29-09-2019,01-10-2019,First Class,James Anderson,Home Office,USA,San Diego,California,West,Office Supplies,Paper,451.93,3,0.1
+122,CA-2019-100122,31-12-2019,03-01-2020,First Class,Michael Lee,Consumer,USA,San Diego,California,West,Office Supplies,Binders,277.35,2,0.1
+123,CA-2019-100123,16-02-2019,21-02-2019,Second Class,James Anderson,Consumer,USA,New York,New York,East,Furniture,Furnishings,633.29,5,0.2
+124,CA-2019-100124,06-07-2019,09-07-2019,First Class,David Wilson,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,125.66,4,0.1
+125,CA-2019-100125,04-05-2019,06-05-2019,Second Class,Liam Walker,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,442.25,2,0
+126,CA-2019-100126,11-01-2019,16-01-2019,Second Class,Emma Taylor,Corporate,USA,San Antonio,Texas,Central,Technology,Phones,458.1,3,0.15
+127,CA-2019-100127,02-12-2019,04-12-2019,First Class,James Anderson,Corporate,USA,San Diego,California,West,Technology,Phones,336.08,5,0.15
+128,CA-2019-100128,12-12-2019,17-12-2019,Second Class,Alice Brown,Consumer,USA,Phoenix,Arizona,West,Office Supplies,Binders,90.34,5,0.1
+129,CA-2019-100129,24-03-2019,26-03-2019,Standard Class,James Anderson,Home Office,USA,San Antonio,Texas,Central,Office Supplies,Paper,260.15,1,0.1
+130,CA-2019-100130,29-06-2019,01-07-2019,Standard Class,Sophia Clark,Consumer,USA,Los Angeles,California,West,Office Supplies,Paper,397.61,3,0.1
+131,CA-2019-100131,07-09-2019,09-09-2019,First Class,Michael Lee,Consumer,USA,San Jose,California,West,Furniture,Tables,417.38,6,0.15
+132,CA-2019-100132,27-02-2019,01-03-2019,Second Class,John Smith,Home Office,USA,San Antonio,Texas,Central,Furniture,Furnishings,256.31,4,0.1
+133,CA-2019-100133,22-03-2019,23-03-2019,Second Class,David Wilson,Home Office,USA,San Diego,California,West,Furniture,Chairs,535.94,5,0.05
+134,CA-2019-100134,10-10-2019,14-10-2019,First Class,Michael Lee,Corporate,USA,Dallas,Texas,Central,Furniture,Tables,290.67,3,0.2
+135,CA-2019-100135,13-04-2019,14-04-2019,Standard Class,David Wilson,Consumer,USA,San Diego,California,West,Furniture,Tables,619.22,3,0
+136,CA-2019-100136,22-07-2019,25-07-2019,Standard Class,Liam Walker,Corporate,USA,Phoenix,Arizona,West,Technology,Phones,611.53,1,0
+137,CA-2019-100137,10-05-2019,14-05-2019,Standard Class,John Smith,Home Office,USA,San Diego,California,West,Office Supplies,Labels,722.65,3,0.2
+138,CA-2019-100138,29-06-2019,03-07-2019,Standard Class,Michael Lee,Consumer,USA,San Jose,California,West,Office Supplies,Binders,634.82,4,0.1
+139,CA-2019-100139,07-07-2019,08-07-2019,Standard Class,Michael Lee,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,142.28,4,0.1
+140,CA-2019-100140,29-06-2019,04-07-2019,Second Class,Daniel Martin,Consumer,USA,Dallas,Texas,Central,Furniture,Tables,335.97,2,0.1
+141,CA-2019-100141,29-10-2019,01-11-2019,First Class,David Wilson,Consumer,USA,San Diego,California,West,Furniture,Tables,764.88,5,0
+142,CA-2019-100142,14-10-2019,16-10-2019,First Class,John Smith,Home Office,USA,Houston,Texas,Central,Furniture,Bookcases,74.24,4,0.2
+143,CA-2019-100143,31-07-2019,03-08-2019,First Class,Olivia Thomas,Consumer,USA,Houston,Texas,Central,Office Supplies,Paper,75.11,1,0.1
+144,CA-2019-100144,05-01-2019,09-01-2019,First Class,Daniel Martin,Corporate,USA,Chicago,Illinois,Central,Furniture,Furnishings,21.31,6,0.15
+145,CA-2019-100145,18-06-2019,21-06-2019,Standard Class,James Anderson,Home Office,USA,San Diego,California,West,Furniture,Tables,551.96,1,0.2
+146,CA-2019-100146,09-09-2019,12-09-2019,Standard Class,Sophia Clark,Consumer,USA,Dallas,Texas,Central,Furniture,Furnishings,555.34,2,0.05
+147,CA-2019-100147,04-07-2019,09-07-2019,First Class,David Wilson,Consumer,USA,New York,New York,East,Office Supplies,Labels,621.64,4,0.05
+148,CA-2019-100148,18-04-2019,19-04-2019,Standard Class,Sophia Clark,Corporate,USA,San Diego,California,West,Furniture,Furnishings,735.04,6,0.2
+149,CA-2019-100149,17-03-2019,22-03-2019,First Class,Daniel Martin,Home Office,USA,San Diego,California,West,Furniture,Chairs,416.08,6,0
+150,CA-2019-100150,24-03-2019,29-03-2019,First Class,Emma Taylor,Corporate,USA,Los Angeles,California,West,Furniture,Chairs,421.95,3,0.2
+151,CA-2019-100151,13-04-2019,14-04-2019,First Class,Daniel Martin,Consumer,USA,Los Angeles,California,West,Office Supplies,Binders,208.59,1,0
+152,CA-2019-100152,07-08-2019,12-08-2019,Second Class,David Wilson,Consumer,USA,San Diego,California,West,Furniture,Bookcases,46.18,4,0.2
+153,CA-2019-100153,23-09-2019,26-09-2019,Standard Class,Daniel Martin,Consumer,USA,San Diego,California,West,Technology,Copiers,533.31,3,0
+154,CA-2019-100154,18-06-2019,19-06-2019,Second Class,John Smith,Corporate,USA,Houston,Texas,Central,Office Supplies,Labels,206.91,3,0.15
+155,CA-2019-100155,20-04-2019,23-04-2019,Second Class,James Anderson,Home Office,USA,San Antonio,Texas,Central,Office Supplies,Paper,451.68,6,0.2
+156,CA-2019-100156,29-06-2019,01-07-2019,Second Class,Alice Brown,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,299.91,6,0.05
+157,CA-2019-100157,22-11-2019,26-11-2019,Standard Class,John Smith,Consumer,USA,Dallas,Texas,Central,Technology,Phones,325.36,6,0
+158,CA-2019-100158,07-03-2019,12-03-2019,Standard Class,Sophia Clark,Corporate,USA,Phoenix,Arizona,West,Furniture,Chairs,274.77,4,0.15
+159,CA-2019-100159,12-11-2019,16-11-2019,First Class,Liam Walker,Consumer,USA,Phoenix,Arizona,West,Furniture,Furnishings,331.3,5,0.1
+160,CA-2019-100160,29-03-2019,30-03-2019,Second Class,Sophia Clark,Corporate,USA,Phoenix,Arizona,West,Office Supplies,Binders,65.49,3,0
+161,CA-2019-100161,20-07-2019,23-07-2019,First Class,Sophia Clark,Consumer,USA,San Antonio,Texas,Central,Technology,Machines,550.35,3,0
+162,CA-2019-100162,28-12-2019,02-01-2020,First Class,Olivia Thomas,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Storage,715.16,6,0.2
+163,CA-2019-100163,31-05-2019,02-06-2019,First Class,Liam Walker,Consumer,USA,San Diego,California,West,Office Supplies,Paper,608.52,6,0.05
+164,CA-2019-100164,15-06-2019,20-06-2019,Second Class,Sophia Clark,Home Office,USA,San Antonio,Texas,Central,Furniture,Bookcases,756.31,6,0
+165,CA-2019-100165,14-09-2019,15-09-2019,Second Class,Sophia Clark,Corporate,USA,Houston,Texas,Central,Technology,Machines,80.56,2,0.05
+166,CA-2019-100166,10-09-2019,14-09-2019,Standard Class,Sophia Clark,Consumer,USA,Los Angeles,California,West,Technology,Accessories,731.12,3,0
+167,CA-2019-100167,29-11-2019,30-11-2019,Standard Class,Emma Taylor,Consumer,USA,San Antonio,Texas,Central,Technology,Phones,72.22,6,0.15
+168,CA-2019-100168,21-04-2019,25-04-2019,Standard Class,Olivia Thomas,Consumer,USA,Houston,Texas,Central,Office Supplies,Paper,459.03,6,0.1
+169,CA-2019-100169,06-07-2019,11-07-2019,Second Class,David Wilson,Consumer,USA,Los Angeles,California,West,Technology,Machines,422.83,5,0.05
+170,CA-2019-100170,18-06-2019,23-06-2019,Second Class,Emma Taylor,Consumer,USA,Houston,Texas,Central,Office Supplies,Binders,451.43,3,0.05
+171,CA-2019-100171,01-08-2019,02-08-2019,Standard Class,David Wilson,Consumer,USA,San Antonio,Texas,Central,Furniture,Chairs,173.3,4,0.2
+172,CA-2019-100172,30-03-2019,01-04-2019,First Class,Liam Walker,Home Office,USA,Chicago,Illinois,Central,Technology,Copiers,711.98,1,0.1
+173,CA-2019-100173,28-05-2019,02-06-2019,Standard Class,Olivia Thomas,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Storage,487.69,3,0.1
+174,CA-2019-100174,18-08-2019,23-08-2019,Second Class,Sophia Clark,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Copiers,780.46,1,0.1
+175,CA-2019-100175,22-05-2019,27-05-2019,Standard Class,Liam Walker,Corporate,USA,Dallas,Texas,Central,Furniture,Chairs,616.36,5,0
+176,CA-2019-100176,16-06-2019,18-06-2019,First Class,Daniel Martin,Corporate,USA,San Jose,California,West,Furniture,Chairs,745.54,6,0.05
+177,CA-2019-100177,06-09-2019,07-09-2019,First Class,Daniel Martin,Corporate,USA,San Antonio,Texas,Central,Technology,Copiers,605.04,3,0.15
+178,CA-2019-100178,16-12-2019,20-12-2019,Second Class,Michael Lee,Consumer,USA,Dallas,Texas,Central,Technology,Phones,60.94,1,0.15
+179,CA-2019-100179,07-05-2019,12-05-2019,First Class,Liam Walker,Consumer,USA,Chicago,Illinois,Central,Furniture,Tables,705.13,1,0.2
+180,CA-2019-100180,08-08-2019,10-08-2019,First Class,James Anderson,Corporate,USA,New York,New York,East,Office Supplies,Paper,400.06,3,0.2
+181,CA-2019-100181,14-08-2019,16-08-2019,Standard Class,John Smith,Home Office,USA,Los Angeles,California,West,Technology,Machines,523.44,2,0.05
+182,CA-2019-100182,24-12-2019,26-12-2019,First Class,David Wilson,Consumer,USA,Phoenix,Arizona,West,Office Supplies,Binders,484.11,5,0
+183,CA-2019-100183,22-06-2019,25-06-2019,Standard Class,Olivia Thomas,Consumer,USA,San Jose,California,West,Furniture,Furnishings,722.94,6,0.1
+184,CA-2019-100184,09-09-2019,14-09-2019,Standard Class,Olivia Thomas,Corporate,USA,Dallas,Texas,Central,Technology,Machines,774.25,3,0.1
+185,CA-2019-100185,09-05-2019,14-05-2019,Second Class,Sophia Clark,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,341.46,6,0
+186,CA-2019-100186,18-10-2019,21-10-2019,First Class,Olivia Thomas,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Copiers,30.8,3,0.1
+187,CA-2019-100187,18-12-2019,21-12-2019,Second Class,Emma Taylor,Consumer,USA,San Diego,California,West,Furniture,Tables,565.53,5,0.15
+188,CA-2019-100188,27-10-2019,29-10-2019,Second Class,Olivia Thomas,Corporate,USA,San Antonio,Texas,Central,Office Supplies,Storage,713.58,6,0
+189,CA-2019-100189,22-10-2019,24-10-2019,Second Class,Liam Walker,Corporate,USA,Dallas,Texas,Central,Technology,Accessories,72.7,1,0.15
+190,CA-2019-100190,07-06-2019,08-06-2019,First Class,Daniel Martin,Home Office,USA,Houston,Texas,Central,Furniture,Chairs,458.21,3,0.15
+191,CA-2019-100191,21-12-2019,25-12-2019,Standard Class,Alice Brown,Consumer,USA,Chicago,Illinois,Central,Furniture,Chairs,565.32,6,0.15
+192,CA-2019-100192,05-11-2019,08-11-2019,Second Class,John Smith,Home Office,USA,Phoenix,Arizona,West,Technology,Machines,475.22,1,0.2
+193,CA-2019-100193,07-11-2019,10-11-2019,Second Class,Alice Brown,Home Office,USA,Houston,Texas,Central,Office Supplies,Binders,304.04,3,0.1
+194,CA-2019-100194,14-04-2019,17-04-2019,First Class,Alice Brown,Home Office,USA,Houston,Texas,Central,Furniture,Tables,430.06,6,0.05
+195,CA-2019-100195,04-12-2019,05-12-2019,Standard Class,Michael Lee,Home Office,USA,New York,New York,East,Furniture,Bookcases,675.49,5,0.2
+196,CA-2019-100196,28-12-2019,29-12-2019,Standard Class,Michael Lee,Corporate,USA,Chicago,Illinois,Central,Furniture,Tables,201.76,3,0
+197,CA-2019-100197,11-04-2019,13-04-2019,Second Class,James Anderson,Corporate,USA,Phoenix,Arizona,West,Office Supplies,Storage,202.82,2,0.05
+198,CA-2019-100198,05-04-2019,09-04-2019,Standard Class,Daniel Martin,Consumer,USA,Phoenix,Arizona,West,Technology,Machines,731.57,3,0.1
+199,CA-2019-100199,22-07-2019,24-07-2019,First Class,David Wilson,Corporate,USA,San Jose,California,West,Office Supplies,Labels,181.41,5,0
+200,CA-2019-100200,18-10-2019,19-10-2019,Second Class,Liam Walker,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,527.57,2,0.1
